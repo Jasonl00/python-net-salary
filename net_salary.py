@@ -1,6 +1,4 @@
-# Jason Luis 
-# Professor Ghaforyfard
-# March 4, 2024 
+# net-salary.py
 # Using For loop, write a program to ask for the name, salary, and the state for 6 employees. Calculate the federal tax, state tax, and the net salary for each employee. 
 # If the salary is greater than 100,000 then calculate the federal tax at 20 percent. Otherwise calculate the federal tax at 15%. 
 # If the employee is from CA, NV, AZ, or TX calculate the state tax at 10%. Otherwise calculate the state tax at 12%. 
@@ -8,8 +6,6 @@
 
 
 #inputs 
-from cmath import e
-
 
 numofemployees = input("How many employees are there?: ") 
 
