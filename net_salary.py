@@ -34,7 +34,7 @@ for i in range(intnumofemployees):
         print("\nFederal Tax: $",federal_tax)
 
     
-    if states.upper() in ['CA','NV','AZ','TX']:
+    if states in ['CA','NV','AZ','TX']:
 
         state_tax = float(salary) * 0.10 
 
